@@ -13,7 +13,9 @@
 - [ ] Python for security
 - [ ] Web Security (PortSwigger)
 - [ ] TryHackMe Pre-Security
-- [ ] Nmap & WireShark
+- [ ] Nmap & WireShark & Burp Suite
+- [ ] Pentest
+- [ ] CTF 
 
 ## Репозитории
 
