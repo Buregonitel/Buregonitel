@@ -1,15 +1,21 @@
 # Cybersecurity Learning Portfolio
 
-- Привет! Меня зовут Илья
-- Я изучаю кибербезопасность с нуля
+- Привет! Меня зовут **Илья**
+- Я изучаю кибербезопасность с нуля и документирую весь свой путью.
 
-### Текущий прогресс
+## Цель
+-  Стать Junior SOC Analyst / Junior Penetration Tester
 
-- Linux & Bash
-- Networking Fundamentals
-- Python for security
+## Текущий прогресс
 
-### Репозитории
+- [x] Linux & Bash
+- [x] Networking Fundamentals
+- [ ] Python for security
+- [ ] Web Security
+- [ ] TryHackMe Pre-Security
+- [ ] Nmap & WireShark
+- [ ] 
+## Репозитории
 - [cybersecurity-journey](https://github.com/Buregonitel/cybersecurity-journey) — план обучения и прогресс.
 - [ctf-writeups](https://github.com/Buregonitel/ctf-writeups) — разборы CTF.
 - [python-security-scripts](https://github.com/Buregonitel/python-security-scripts) — скрипты и инструмены.
