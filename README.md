@@ -22,9 +22,7 @@
 | Репозитории | Описание |
 |-------------|----------|
 | [cybersecurity-journey](https://github.com/Buregonitel/cybersecurity-journey) | Полный план обучения |
-| [ctf-writeups](https://github.com/Buregonitel/ctf-writeups) | Разборы CTF и машин  |
 | [python-security-scripts](https://github.com/Buregonitel/python-security-scripts) | Скрипты и инструмены |
-| [cybersecurity-notes](https://github.com/Buregonitel/cybersecurity-notes) | Конспекты |
 | [cybersecurity-learning-portfolio](https://github.com/Buregonitel/cybersecurity-learning-portfolio) | Прогресс и портфолио.
 
 # Контакты
