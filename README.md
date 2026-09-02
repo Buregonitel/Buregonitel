@@ -19,5 +19,8 @@
 - # Контакты
 
 - GitHub: [Buregonitel](https://github.com/Buregonitel)
-- Labex.io:https://labex.io/u/ilya-35788371
+- Labex.io: [Buregonitel](https://labex.io/u/ilya-35788371)
+- TryHackMe: [Buregonitel](https://tryhackme.com/p/Buregonitel)
+- 
+- 
 
