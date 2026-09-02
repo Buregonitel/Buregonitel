@@ -19,10 +19,10 @@
 
 | Репозитории | Описание |
 |-------------|----------|
-| [cybersecurity-journey](https://github.com/Buregonitel/cybersecurity-journey) — план обучения.
-| [ctf-writeups](https://github.com/Buregonitel/ctf-writeups) — разборы CTF.
-| [python-security-scripts](https://github.com/Buregonitel/python-security-scripts) — скрипты и инструмены.
-| [cybersecurity-notes](https://github.com/Buregonitel/cybersecurity-notes) — конспекты.
+| [cybersecurity-journey](https://github.com/Buregonitel/cybersecurity-journey) | Полный план обучения |
+| [ctf-writeups](https://github.com/Buregonitel/ctf-writeups) | Разборы CTF и машин  |
+| [python-security-scripts](https://github.com/Buregonitel/python-security-scripts) | Скрипты и инструмены |
+| [cybersecurity-notes](https://github.com/Buregonitel/cybersecurity-notes) | Конспекты |
 
 # Контакты
 
