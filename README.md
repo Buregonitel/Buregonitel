@@ -24,7 +24,7 @@
 | [python-security-scripts](https://github.com/Buregonitel/python-security-scripts) — скрипты и инструмены.
 | [cybersecurity-notes](https://github.com/Buregonitel/cybersecurity-notes) — конспекты.
 
-- # Контакты
+# Контакты
 
 - GitHub: [Buregonitel](https://github.com/Buregonitel)
 
