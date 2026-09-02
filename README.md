@@ -11,10 +11,10 @@
 - [x] Linux & Bash
 - [x] Networking Fundamentals
 - [ ] Python for security
-- [ ] Web Security
+- [ ] Web Security (PortSwigger)
 - [ ] TryHackMe Pre-Security
 - [ ] Nmap & WireShark
-- [ ] 
+
 ## Репозитории
 - [cybersecurity-journey](https://github.com/Buregonitel/cybersecurity-journey) — план обучения и прогресс.
 - [ctf-writeups](https://github.com/Buregonitel/ctf-writeups) — разборы CTF.
