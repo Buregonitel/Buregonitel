@@ -28,5 +28,6 @@
 
 # Контакты
 
-- GitHub: [Buregonitel](https://github.com/Buregonitel)
+- **Telegram:** [@Nature_s_Mockery](https://t.me/@Nature_s_Mockery)
+- **Email:** uyt4893@gmail.com
 
