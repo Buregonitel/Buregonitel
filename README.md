@@ -10,7 +10,7 @@
 
 - [x] Linux & Bash
 - [x] Networking Fundamentals
-- [ ] Python for security
+- [x] Python for security
 - [ ] Web Security (PortSwigger)
 - [ ] TryHackMe Pre-Security
 - [ ] Nmap & WireShark & Burp Suite
