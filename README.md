@@ -12,7 +12,7 @@
 - [x] Networking Fundamentals
 - [x] Python for security
 - [ ] Web Security (PortSwigger)
-- [ ] TryHackMe Pre-Security
+- [x] TryHackMe Pre-Security
 - [ ] Nmap & WireShark & Burp Suite
 - [ ] Pentest
 - [ ] CTF 
