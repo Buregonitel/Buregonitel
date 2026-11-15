@@ -34,7 +34,7 @@ I document everything I learn - labs, notes, write-ups and progress - so the jou
 
 | Repository | Description |
 |----------|-----------|
-| [**cybersecurity-learning-portfolio**](https://github.com/Buregonitel/cybersecurity-learning-portfolio) | Main portfolio — weekly learning logs, notes, write-ups, certifications |
+| [**cybersecurity-learning-portfolio**](https://github.com/Buregonitel/cybersecurity-learning-portfolio) | Main portfolio - weekly learning logs, notes, write-ups, certifications |
 | [**cisco-labs**](https://github.com/Buregonitel/cisco-labs) | Completed Cisco Packet Tracer labs (Networking Basics + Endpoint Security) |
 | [**web-security**](https://github.com/Buregonitel/web-security) | Web security practice, notes and labs |
 | [**python-security-scripts**](https://github.com/Buregonitel/python-security-scripts) | Security scripts, scanners, parsers and automation tools |
