@@ -3,7 +3,7 @@
 I'm a self-taught cybersecurity student from Russia, currently building a solid foundation from scratch.  
 My goal is to become a **Junior SOC Analyst** or **Junior Penetration Tester**.
 
-I document everything I learn — labs, notes, write-ups and progress — so the journey is transparent.
+I document everything I learn — labs, notes, write-ups and progress - so the journey is transparent.
 
 ---
 
@@ -34,7 +34,7 @@ I document everything I learn — labs, notes, write-ups and progress — so the
 
 | Repository | Description |
 |----------|-----------|
-| [**cybersecurity-learning-portfolio**](https://github.com/Buregonitel/cybersecurity-learning-portfolio) | Main portfolio — weekly learning logs, notes, write-ups, certifications |
+| [**cybersecurity-learning-portfolio**](https://github.com/Buregonitel/cybersecurity-learning-portfolio) | Main portfolio - weekly learning logs, notes, write-ups, certifications |
 | [**cisco-labs**](https://github.com/Buregonitel/cisco-labs) | Completed Cisco Packet Tracer labs (Networking Basics + Endpoint Security) |
 | [**web-security**](https://github.com/Buregonitel/web-security) | Web security practice, notes and labs |
 | [**linux-learning**](https://github.com/Buregonitel/linux-learning) | Linux fundamentals and practical exercises |
