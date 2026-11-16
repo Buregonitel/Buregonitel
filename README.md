@@ -7,7 +7,7 @@ I document everything I learn — labs, notes, write-ups and progress - so the j
 
 ---
 
-###  Current Focus
+### Current Focus
 - Strengthening core skills (Linux, Networking, Security Fundamentals)
 - Completing hands-on labs and practical projects
 - Building a public portfolio of work
@@ -15,14 +15,14 @@ I document everything I learn — labs, notes, write-ups and progress - so the j
 
 ---
 
-###  Completed
+### Completed
 - Linux & Bash fundamentals
 - Networking Basics (Cisco Networking Academy)
 - Endpoint Security (Cisco)
 - Python for Security
 - TryHackMe Pre-Security Path
 
-### 🔄In Progress
+### In Progress
 - Web Security (PortSwigger + practice)
 - Network analysis tools (Nmap, Wireshark, Burp Suite)
 - Penetration Testing fundamentals
