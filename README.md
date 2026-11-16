@@ -3,7 +3,7 @@
 I'm a self-taught cybersecurity student from Russia, currently building a solid foundation from scratch.  
 My goal is to become a **Junior SOC Analyst** or **Junior Penetration Tester**.
 
-I document everything I learn — labs, notes, write-ups and progress - so the journey is transparent.
+I document everything I learn - labs, notes, write-ups and progress - so the journey is transparent.
 
 ---
 
